@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksistema_escolar"]=self["webpackChunksistema_escolar"]||[]).push([[268],{3268:function(n,e,t){t.r(e),t.d(e,{default:function(){return c}});var u=t(6768);function r(n,e,t,r,a,s){return(0,u.uX)(),(0,u.CE)("h1",null," Not Found View")}var a={name:"NotFoundView",data:function(){return{}}},s=t(1241);const o=(0,s.A)(a,[["render",r]]);var c=o}}]);
+//# sourceMappingURL=268.05d7899f.js.map
